@@ -25,6 +25,7 @@ As I navigate through this challenge purely for personal growth, I'm leveraging 
 - [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 - [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+- [x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 **(Write-Up *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)**
 <!--
