@@ -17,7 +17,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ## Level 1 - Intro
 - [x] [Tutorial](https://tryhackme.com/room/tutorial)
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
+- [x] [Welcome](https://tryhackme.com/jr/welcome) 
 - [ ] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
@@ -27,6 +27,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 - [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+(Write-Up *Working on this [Click here](write-ups/level1/Welcome))
 <!-- - [ ] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
