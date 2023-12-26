@@ -4,12 +4,13 @@ Embarking on a personal journey through the comprehensive [TryHackMe](https://tr
 
 As I navigate through this challenge purely for personal growth, I'm leveraging my initial knowledge in cybersecurity to push myself to achieve Level 9 proficiency in all the current free rooms provided. To document my progress, I will unlock each level and include its corresponding link as I advance through the learning path. This endeavor is not only a test of my capabilities but also a commitment to establishing a robust foundation in cybersecurity. By the end of this personal expedition, I aspire to possess the knowledge and expertise necessary to confront advanced challenges and real-world scenarios within the cybersecurity domain. This GitHub repository serves as a log of my progress and accomplishments, providing insights gained and lessons learned along the way.
 
+
 <br>
 
 **Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
 
-**Thanks to [migueltc13](https://github.com/migueltc13) for providing this**
 ---
+**Thanks to [migueltc13](https://github.com/migueltc13) for providing this**
 
 ## Level 1 - Intro
 - [x] [Tutorial](https://tryhackme.com/room/tutorial)
