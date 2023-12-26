@@ -16,7 +16,7 @@ As I navigate through this challenge purely for personal growth, I'm leveraging 
 - [x] [Tutorial](https://tryhackme.com/room/tutorial)
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [Welcome](https://tryhackme.com/jr/welcome)
-- [ ] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 - [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
