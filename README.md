@@ -28,7 +28,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
       
-**(Write-Up *Working on this [Click here](write-ups/level1/Welcome))**
+**(Write-Up *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)**
 <!-- - [ ] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
