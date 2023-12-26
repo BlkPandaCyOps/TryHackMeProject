@@ -7,6 +7,7 @@ As I navigate through this challenge purely for personal growth, I'm leveraging 
 <br>
 
 **Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
+
 **Thanks to [migueltc13](https://github.com/migueltc13) for providing this**
 ---
 
