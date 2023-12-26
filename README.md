@@ -10,7 +10,7 @@ As I navigate through this challenge purely for personal growth, I'm leveraging 
 **Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
 
 ---
-**Thanks to [migueltc13](https://github.com/migueltc13) for providing this**
+**Credit goes to [migueltc13](https://github.com/migueltc13) for offering this.**
 
 ## Level 1 - Intro
 - [x] [Tutorial](https://tryhackme.com/room/tutorial)
