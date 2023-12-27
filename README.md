@@ -19,7 +19,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [x] [Welcome](https://tryhackme.com/jr/welcome)
 - [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
-- [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
 - [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
