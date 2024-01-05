@@ -29,7 +29,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
 
 
-**(Write-Up *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)**
+**(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)**
 <!--
 **Introductory CTFs to get your feet wet**
 - [ ] [OHsint](https://tryhackme.com/room/ohsint)
