@@ -1,62 +1,62 @@
-# Navigating the Cybersecurity Landscape: A Personal Journey from Novice to Pro with TryHackMe
+# Navigating the Cybersecurity Landscape: A Personal Journey from Novice to Pro with TryHackMe 
 
-Embarking on a personal journey through the comprehensive [TryHackMe](https://tryhackme.com) learning path, I aim to transition from a cybersecurity novice to an expert, all within the dynamic realm of cybersecurity. This self-guided exploration encompasses a diverse range of practical exercises, introductory CTFs, and educational modules that span key topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit. The entirety of this learning path is freely accessible, making it an invaluable resource for both beginners and those looking to refine existing skills.
+Embarking on a personal journey through the comprehensive  [TryHackMe](https://tryhackme.com ) learning path, I aim to transition from a cybersecurity novice to an expert, all within the dynamic realm of cybersecurity. This self-guided exploration encompasses a diverse range of practical exercises, introductory CTFs, and educational modules that span key topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit. The entirety of this learning path is freely accessible, making it an invaluable  resource for both beginners and those looking to refine existing skills. 
 
-As I navigate through this challenge purely for personal growth, I'm leveraging my initial knowledge in cybersecurity to push myself to achieve Level 9 proficiency in all the current free rooms provided. To document my progress, I will unlock each level and include its corresponding link as I advance through the learning path. This endeavor is not only a test of my capabilities but also a commitment to establishing a robust foundation in cybersecurity. By the end of this personal expedition, I aspire to possess the knowledge and expertise necessary to confront advanced challenges and real-world scenarios within the cybersecurity domain. This GitHub repository serves as a log of my progress and accomplishments, providing insights gained and lessons learned along the way.
+As I navigate through this challenge purely for personal growth, I'm leveraging my initial knowledge in cybersecurity to push myself to achieve Level 9 proficiency in all the current free rooms provided. To document my progress, I will unlock each level and include its corresponding link as I advance through the learning path. This endeavor is not only a test of my capabilities but also a commitment to establishing a robust foundation in cybersecurity. By the end of this personal expedition, I aspire to pos sess the knowledge and expertise necessary to confront advanced challenges and real-world scenarios within the cybersecurity domain. This GitHub repository serves as a log of my progress and accomplishments, providing insights gained and lessons learned along the way. 
 
-All the free path can be found here - [The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path)
+All the free path can be found here - [The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path) 
 
 <br>
 
-**Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
+**Instructions on how to use this repository [here](/INSTRUCTIONS.md)** 
 
 ---
-**Credit goes to [migueltc13](https://github.com/migueltc13) for offering this.**
+**Credit goes to [migueltc13](https://github.com/migueltc13) for offering this.** 
 
 ## Level 1 - Intro
-- [x] [Tutorial](https://tryhackme.com/room/tutorial)
-- [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome)
-- [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
-- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
-- [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-- [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- [x] [Linux Fundamentals 1,2,3](https://tryhackme.com/module/linux-fundamentals)
-- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-- [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-- [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+- [x] [Tutorial](https://tryhackme.com/room/tutorial) 
+- [x] [OpenVPN](https://tryhackme.com/room/openvpn) 
+- [x] [Welcome](https://tryhackme.com/jr/welcome) 
+- [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) 
+- [x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) 
+- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch) 
+- [x] [Google Dorking](https://tryhackme.com/room/googledorking) 
+- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology) 
+- [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) 
+- [x] [Linux Fundamentals 1,2,3](https://tryhackme.com/module/linux-fundamentals) 
+- [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals) 
+- [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity) 
+- [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) 
 
 
-**(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)**
+**(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)** 
 <!--
-**Introductory CTFs to get your feet wet**
-- [ ] [OHsint](https://tryhackme.com/room/ohsint)
+**Introductory CTFs to get your feet wet** 
+- [ ] [OHsint](https://tryhackme.com/room/ohsint) 
 -->
 ## Level 2 - Tooling
 <!--
-- [ ] [Tmux](https://tryhackme.com/room/rptmux)
-- [ ] [Nmap](https://tryhackme.com/room/furthernmap)
-- [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-- [ ] [Hydra](https://tryhackme.com/room/hydra)
-- [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
-- [ ] [Shodan.io](https://tryhackme.com/room/shodan)
-- [ ] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
-- [ ] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
-- [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
-- [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
-<!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
-<!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
+- [ ] [Tmux](https://tryhackme.com/room/rptmux) 
+- [ ] [Nmap](https://tryhackme.com/room/furthernmap) 
+- [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro) 
+- [ ] [Hydra](https://tryhackme.com/room/hydra) 
+- [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc)) 
+- [ ] [Shodan.io](https://tryhackme.com/room/shodan) 
+- [ ] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan)) 
+- [ ] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) 
+- [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) 
+- [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap) 
+<;!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) --&gt; 
+<;!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) --&gt; 
 
 <!--
-**More introductory CTFs**
+**More introductory CTFs** 
 
-- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
-- [ ] [Blue](https://tryhackme.com/room/blue)
-- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
-- [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) (write-up [here](write-ups/level2/Bounty%20Hacker))
-- [ ] [Brute It](https://tryhackme.com/room/bruteit)
+- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity)) 
+- [ ] [Blue](https://tryhackme.com/room/blue) 
+- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF)) 
+- [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) (write-up [here](write-ups/level2/Bounty%20Hacker)) 
+- [ ] [Brute It](https://tryhackme.com/room/bruteit) 
 - [ ] [Fowsniff CTF](https://tryhackme.com/room/ctf)
 -->
 ## Level 3 - Crypto & Hashes with CTF practice
