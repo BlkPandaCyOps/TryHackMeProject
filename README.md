@@ -153,7 +153,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 -->
 - [x] [Advent of Cyber Year 5](https://tryhackme.com/room/adventofcyber2023)
 ---
-**(Holding off on the write-up for now, but actively researching and learning about the task. <!--[Click here](write-ups/level1/Welcome)-->)** 
+**(Holding off on the write-up for now, Currently fueling my understanding with hands-on learning. <!--[Click here](write-ups/level1/Welcome)-->)** 
 <!--
 ### Completed the above? You can:
 - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
