@@ -35,20 +35,24 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [ ] [OHsint](https://tryhackme.com/room/ohsint) 
 -->
 ## Level 2 - Tooling
-<!--
+
 - [ ] [Tmux](https://tryhackme.com/room/rptmux) 
 - [ ] [Nmap](https://tryhackme.com/room/furthernmap) 
 - [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro) 
 - [ ] [Hydra](https://tryhackme.com/room/hydra) 
-- [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc)) 
+- [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) 
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan) 
-- [ ] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan)) 
+- [ ] [RustScan](https://tryhackme.com/room/rustscan)  
 - [ ] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) 
 - [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) 
 - [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap) 
 <;!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) --&gt; 
 <;!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) --&gt; 
 
+<!--
+(write-up [here](write-ups/level2/RustScan))
+(write-up [here](write-ups/level2/Linux%20PrivEsc)) 
+-->
 <!--
 **More introductory CTFs** 
 
