@@ -30,7 +30,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) 
 -->
 **Introductory CTF challenge for Level 1** 
-- [ ] [OHsint](https://tryhackme.com/room/ohsint) 
+- [x] [OHsint](https://tryhackme.com/room/ohsint) 
 
 
 ## Level 2 - Tooling
