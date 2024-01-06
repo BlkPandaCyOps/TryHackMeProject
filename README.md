@@ -32,7 +32,6 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 **Introductory CTF challenge for Level 1** 
 - [ ] [OHsint](https://tryhackme.com/room/ohsint) 
 
-**(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)** 
 
 ## Level 2 - Tooling
 
@@ -154,7 +153,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 -->
 - [x] [Advent of Cyber Year 5](https://tryhackme.com/room/adventofcyber2023)
 ---
-
+**(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)** 
 <!--
 ### Completed the above? You can:
 - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
