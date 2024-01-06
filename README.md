@@ -25,15 +25,15 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) 
 - [x] [Linux Fundamentals 1,2,3](https://tryhackme.com/module/linux-fundamentals) 
 - [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals) 
-- [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity) 
+- [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+<!--      
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) 
-
+-->
+**Introductory CTF challenge for Level 1** 
+- [ ] [OHsint](https://tryhackme.com/room/ohsint) 
 
 **(Write-Up - *Still Working on this <!--[Click here](write-ups/level1/Welcome)-->)** 
-<!--
-**Introductory CTFs to get your feet wet** 
-- [ ] [OHsint](https://tryhackme.com/room/ohsint) 
--->
+
 ## Level 2 - Tooling
 
 - [ ] [Tmux](https://tryhackme.com/room/rptmux) 
@@ -46,8 +46,8 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [ ] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) 
 - [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) 
 - [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap) 
-<;!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) --&gt; 
-<;!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) --&gt; 
+- [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r)
+- [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 <!--
 (write-up [here](write-ups/level2/RustScan))
