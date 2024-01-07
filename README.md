@@ -35,7 +35,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 
 ## Level 2 - Tooling
 
-- [ ] [Tmux](https://tryhackme.com/room/rptmux) 
+- [x] [Tmux](https://tryhackme.com/room/rptmux) 
 - [ ] [Nmap](https://tryhackme.com/room/furthernmap) 
 - [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro) 
 - [ ] [Hydra](https://tryhackme.com/room/hydra) 
