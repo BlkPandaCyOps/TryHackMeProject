@@ -33,15 +33,17 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 **Introductory CTF challenge for Level 1** 
 - [x] [OHsint](https://tryhackme.com/room/ohsint) 
 
-## Extras
-- [x] [Content Discovery](https://tryhackme.com/room/contentdiscovery) 
+## Intro to Web Hacking - Extras
+- [x] [Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [x] [Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [ ] [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 
 ## Level 2 - Tooling
 
 - [x] [Tmux](https://tryhackme.com/room/rptmux) 
-- [ ] [Nmap](https://tryhackme.com/room/furthernmap) [In Progress]
-- [ ] [Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
+- [-] [Nmap](https://tryhackme.com/room/furthernmap) [In Progress]
+- [-] [Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 - [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro) 
 - [ ] [Hydra](https://tryhackme.com/room/hydra) 
 - [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) 
@@ -78,7 +80,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 -->
 ## Level 4 - Web
 <!--
-- [ ] [Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [] [Walking An Application](https://tryhackme.com/room/walkinganapplication)
 - [ ] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
