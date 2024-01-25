@@ -33,6 +33,9 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 **Introductory CTF challenge for Level 1** 
 - [x] [OHsint](https://tryhackme.com/room/ohsint) 
 
+## Extras
+- [x] [Content Discovery](https://tryhackme.com/room/contentdiscovery) 
+
 
 ## Level 2 - Tooling
 
