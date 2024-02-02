@@ -36,7 +36,8 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 ## Intro to Web Hacking - Extras
 - [x] [Walking An Application](https://tryhackme.com/room/walkinganapplication)
 - [x] [Content Discovery](https://tryhackme.com/room/contentdiscovery)
-- [x] [SQL Injection](https://tryhackme.com/room/sqlinjectionlm) 
+- [x] [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- [x] [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
 ## Level 2 - Tooling
 
