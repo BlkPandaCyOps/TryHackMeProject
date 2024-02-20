@@ -27,6 +27,7 @@ All the free path can be found here - [The Ultimate Guide for Beginners](https:/
 - [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals) 
 - [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [x] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [Security Awareness](https://tryhackme.com/room/securityawarenessintro)
 <!--      
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) 
 -->
